@@ -1,3 +1,5 @@
 ### Parallax Scrolling Demo
-Coded following the tutorial by: https://www.youtube.com/watch?v=1wfeqDyMUx4&t=604s&ab_channel=OnlineTutorials
-(for practice purpose only)
+Take a look at the site here: [Netlify Site](https://parrallax-scrolling-demo-one.netlify.app/)
+
+Coded following the YouTube tutorial by Online Tutorials
+(for practice purpose)
